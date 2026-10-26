@@ -2,7 +2,7 @@
 
 This repo contains **two runnable demos** of the same privacy-first idea:
 
-1. **Browser [demo.html](https://potr-knows.github.io/Delfour-Insight-Economy/demo.html)** — everything runs client-side:
+1. **Browser [demo.html](https://odrl-force.github.io/Delfour-Insight-Economy/demo.html)** — everything runs client-side:
 
    * Orchestration in **Python (Pyodide)**
    * Reasoning by **eye-js**
